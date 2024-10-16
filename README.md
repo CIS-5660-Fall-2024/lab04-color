@@ -1,5 +1,14 @@
 # lab04-color
-Let's play with color!
+Puzzle solved!
+
+Team member: Akiko Zhu
+
+Stripes: https://www.shadertoy.com/view/43Sfzz
+
+Damaged VCR: https://www.shadertoy.com/view/X3Bfzz
+
+Extra: https://www.shadertoy.com/view/l3SfRR
+
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
