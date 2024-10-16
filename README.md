@@ -1,5 +1,15 @@
-# lab04-color
+# lab04-color - Annie Qiu
 Let's play with color!
+
+## Result
+
+### Stripes
+[Shadertoy Link](https://www.shadertoy.com/view/4XBfzR)
+![](./lines.gif)
+
+### Damaged VCR
+[Shadertoy Link](https://www.shadertoy.com/view/43SBRz)
+![](damaged.gif)
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
