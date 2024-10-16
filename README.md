@@ -1,5 +1,9 @@
 # lab04-color
-Let's play with color!
+Aaron Tian
+
+1. Stripes https://www.shadertoy.com/view/lXlfWl
+2. Damaged VCR https://www.shadertoy.com/view/l3lBDl
+3. Nyan Cat (EC) https://www.shadertoy.com/view/X3BBzR
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
