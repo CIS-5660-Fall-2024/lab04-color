@@ -1,3 +1,20 @@
+# Submission
+
+Team members: Michael Mason
+
+### 1. Stripes
+
+https://www.shadertoy.com/view/MXlfWs
+
+### 2. Damaged VCR
+
+Caution: uses your webcam!
+Caution: also! couldn't figure out the scan line abberations!!
+
+https://www.shadertoy.com/view/M3lfDs 
+
+
+
 # lab04-color
 Let's play with color!
 
