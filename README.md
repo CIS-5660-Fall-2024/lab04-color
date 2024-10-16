@@ -3,6 +3,7 @@ Let's play with color!
 
 ## 0. Result
 [Stripes](https://www.shadertoy.com/view/MXlBWl)
+
 [Damaged VCR](https://www.shadertoy.com/view/lXlBDs)
 
 
