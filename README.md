@@ -1,5 +1,9 @@
 # lab04-color
-Let's play with color!
+### Stripe Replication
+[See Link here](https://www.shadertoy.com/view/43BBRz)
+
+### Damaged VCR Replication
+[See Link here](https://www.shadertoy.com/view/X3SBzz)
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
