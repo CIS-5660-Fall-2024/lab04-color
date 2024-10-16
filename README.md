@@ -1,8 +1,12 @@
 # lab04-color
 Puzzle solved!
+
 Team member: Akiko Zhu
+
 Stripes: https://www.shadertoy.com/view/43Sfzz
+
 Damaged VCR: https://www.shadertoy.com/view/X3Bfzz
+
 Extra: https://www.shadertoy.com/view/l3SfRR
 
 
