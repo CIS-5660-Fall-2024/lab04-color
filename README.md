@@ -3,7 +3,7 @@ Aaron Tian
 
 1. https://www.shadertoy.com/view/lXlfWl
 2. https://www.shadertoy.com/view/l3lBDl
-3 (EC). https://www.shadertoy.com/view/X3BBzR
+3. (EC) https://www.shadertoy.com/view/X3BBzR
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
