@@ -2,16 +2,18 @@
 Let's play with color!
 
 ## 1. Stripes
-Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
-![f813a51b776ad07701ad925c57ac0c4f](https://user-images.githubusercontent.com/1758825/192643224-503d1e99-dd27-40fd-9f6c-cd0bc4355703.gif)
-
+[Repo Link](https://www.shadertoy.com/view/l3sfWl)
+![Stripes Demo](https://github.com/user-attachments/assets/863f1a4c-5a7c-4281-b487-bfd827d2d861)
 
 ## 2. Damaged VCR
-Fork [this base code](https://www.shadertoy.com/view/stGBWR) and replicate this animation. Don't worry about getting it exactly right!! Go for overall flavor.
-![4bfb5193037528965a9590e4a69514f4 (1)](https://user-images.githubusercontent.com/1758825/192655484-1fcef422-b611-48ea-a7ab-f1a7de8f3fb1.gif)
+[Repo Link](https://www.shadertoy.com/view/l3lfDs)
+![Glitch Demo](https://github.com/user-attachments/assets/1ad5241b-d7a7-4c9e-a06a-68d3878377f4)
 
 ## Extra Credit
-Too easy? Give [nyan cat](https://www.shadertoy.com/view/stGBDR) a rainbow!
+[Repo Link](https://www.shadertoy.com/view/MXSfzz)
+![Nyan Cat Rainbow](https://github.com/user-attachments/assets/fea3a24b-b4a2-4d9c-a91a-45500cb04f0d)
+
+
 ## Submission
 - Create a pull request to this repository
 - In the README, include the names of both your team members
