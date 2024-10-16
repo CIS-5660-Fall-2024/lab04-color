@@ -1,4 +1,13 @@
 # lab04-color
+
+Team members: Crystal Jin and Sirui Zhu
+
+Stripes: https://www.shadertoy.com/view/M3XBDX
+
+Damaged VCR: https://www.shadertoy.com/view/M3XBDf
+
+Extra Credit: https://www.shadertoy.com/view/l3XfDl
+
 Let's play with color!
 
 ## 1. Stripes
