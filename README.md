@@ -1,6 +1,14 @@
 # lab04-color
 Let's play with color!
 
+Team
+Jeff Mostyn
+Matt Schwartz
+
+Stripes solution: https://www.shadertoy.com/view/l3lfWl
+
+VCR solution: https://www.shadertoy.com/view/l3sBDs
+
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
 ![f813a51b776ad07701ad925c57ac0c4f](https://user-images.githubusercontent.com/1758825/192643224-503d1e99-dd27-40fd-9f6c-cd0bc4355703.gif)
