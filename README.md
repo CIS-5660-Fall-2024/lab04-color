@@ -3,9 +3,9 @@ Let's play with color!
 
 ## Links
 No team members
-https://www.shadertoy.com/view/XX2BRz
-https://www.shadertoy.com/view/l3lBWl
-https://www.shadertoy.com/view/XXBfRR
+- https://www.shadertoy.com/view/XX2BRz
+- https://www.shadertoy.com/view/l3lBWl
+- https://www.shadertoy.com/view/XXBfRR
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
