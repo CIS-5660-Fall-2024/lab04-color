@@ -2,7 +2,9 @@
 Let's play with color!
 
 [Stripe](https://www.shadertoy.com/view/M3lBWl)
+
 [Damaged VCR](https://www.shadertoy.com/view/M3lBWs)
+
 [Nyan Cat](https://www.shadertoy.com/view/MXSBzz)
 
 ## 1. Stripes
